@@ -1,4 +1,4 @@
-﻿{
+{
 	"spider": "./jar/xiaosa.js",
 	"wallpaper": "http://bobohome.ignorelist.com:20247/bing",
 	"logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
@@ -17,7 +17,7 @@
 		"quickSearch": 1,
 		"changeable": 1,
 		"playerType": "1",
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/荐片.js"
 	},
 	{
@@ -115,7 +115,7 @@
 		"key": "猎手影视",
 		"name": "猎手｜APP",
 		"type": 3,
-		"api": "./PY/猎手影视.py",
+  "api": "./PY/猎手影视.py",
 		"searchable": 1,
 		"changeable": 1,
 		"quickSearch": 1,
@@ -235,14 +235,14 @@
 		"key": "素白白",
 		"name": "素白白｜影视",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/素白白.js"
 	},
 	{
 		"key": "看了么",
 		"name": "看了么｜影视",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/看了么.js"
 	},
 	{
@@ -312,56 +312,56 @@
 		"key": "56动漫",
 		"name": "56｜动漫",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/56动漫.js"
 	},
 	{
 		"key": "NT动漫",
 		"name": "NT｜动漫",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/NT动漫.js"
 	},
 	{
 		"key": "路漫漫",
 		"name": "路漫漫｜动漫",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/路漫漫.js"
 	},
 	{
 		"key": "花子动漫",
 		"name": "花子｜动漫",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/花子动漫.js"
 	},
 	{
 		"key": "动漫巴士",
 		"name": "巴士｜动漫",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/动漫巴士.js"
 	},
 	{
 		"key": "爱奇艺弹幕",
 		"name": "爱奇艺｜弹幕",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/爱奇艺弹幕.js"
 	},
 	{
 		"key": "优酷弹幕",
 		"name": "优酷｜弹幕",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/优酷弹幕.js"
 	},
 	{
 		"key": "腾讯弹幕",
 		"name": "腾讯｜弹幕",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/腾讯弹幕.js"
 	},
 	{
@@ -380,7 +380,7 @@
 		"key": "芒果弹幕",
 		"name": "芒果｜弹幕",
 		"type": 3,
-		"api": "./JS/drpy2.min.js",
+		"api": "./JS/lib/drpy2.min.js",
 		"ext": "./JS/芒果弹幕.js"
 	},
 
