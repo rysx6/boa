@@ -1,4 +1,4 @@
-﻿{
+{
     "spider": "./jar/xiaosa.js",
     "wallpaper": "./bz/3.png",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
@@ -141,14 +141,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
-        },
-        {
-            "key": "AGE动漫-动态分类",
-            "name": "AGE｜动漫",
-            "type": 3,
-            "api": "./JS/AGE动漫.js",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "次元派对-动态分类",
