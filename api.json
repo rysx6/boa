@@ -11,6 +11,17 @@
             "searchable": 0
         },
         {
+            "key": "猎手影视",
+            "name": "猎手｜APP",
+            "type": 3,
+            "api": "./PY/猎手影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
             "key": "热播弹幕",
             "name": "热播｜弹幕",
             "type": 3,
